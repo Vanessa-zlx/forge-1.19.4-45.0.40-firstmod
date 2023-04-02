@@ -28,6 +28,7 @@ import org.slf4j.Logger;
 @Mod(Neutrino.MOD_ID)
 public class Neutrino
 {
+    //a comment
     public static final String MOD_ID = "neutrino";
     private static final Logger LOGGER = LogUtils.getLogger();
     public Neutrino()
