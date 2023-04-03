@@ -1,0 +1,10 @@
+{
+  "item.tutorialmod.zircon":"锆石",
+  "item.tutorialmod.raw_zircon":"生锆石",
+  "block.tutorialmod.zircon_block": "锆石块",
+  "block.tutorialmod.zircon_ore": "锆矿",
+  "block.tutorialmod.deepslate_zircon_ore": "深板锆矿",
+  "block.tutorialmod.netherrack_zircon_ore": "下界锆矿",
+  "block.tutorialmod.endstone_zircon_ore": "末地锆矿",
+  "creativemodetab.tutorial_tab": "教学物品"
+}

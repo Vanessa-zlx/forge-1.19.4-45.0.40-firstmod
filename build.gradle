@@ -4,9 +4,9 @@ plugins {
     id 'net.minecraftforge.gradle' version '5.1.+'
 }
 
-version = '0.0.1'
-group = 'cn.sakuraxiafan.neutrino' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'neutrino'
+version = '0.0.1-1.19.4'
+group = 'cn.sakuraxiafan.tutorialmod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'tutorialmod'
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
@@ -52,7 +52,7 @@ minecraft {
             property 'forge.enabledGameTestNamespaces', 'neutrino'
 
             mods {
-                neutrino {
+                tutorialmod {
                     source sourceSets.main
                 }
             }
@@ -68,7 +68,7 @@ minecraft {
             property 'forge.enabledGameTestNamespaces', 'neutrino'
 
             mods {
-                neutrino {
+                tutorialmod {
                     source sourceSets.main
                 }
             }
@@ -87,7 +87,7 @@ minecraft {
             property 'forge.enabledGameTestNamespaces', 'neutrino'
 
             mods {
-                neutrino {
+                tutorialmod {
                     source sourceSets.main
                 }
             }
@@ -104,7 +104,7 @@ minecraft {
             args '--mod', 'neutrino', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
 
             mods {
-                neutrino {
+                tutorialmod {
                     source sourceSets.main
                 }
             }

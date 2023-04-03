@@ -1,0 +1,10 @@
+{
+    "item.tutorialmod.zircon":"zircon",
+    "item.tutorialmod.raw_zircon":"raw zircon",
+    "block.tutorialmod.zircon_block": "zircon block",
+    "block.tutorialmod.zircon_ore": "zircon ore",
+    "block.tutorialmod.deepslate_zircon_ore": "deepslate zircon ore",
+    "block.tutorialmod.netherrack_zircon_ore": "netherrack zircon ore",
+    "block.tutorialmod.endstone_zircon_ore": "endstone zircon ore",
+    "creativemodetab.tutorial_tab": "tutorial tab"
+}
